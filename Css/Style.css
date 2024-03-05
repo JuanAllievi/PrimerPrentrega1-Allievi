@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+
+/* NAVBAR */
+.navbar {
+    background-color: rgba(52, 51, 51, 0.996);
+    padding: 20px;
+    display: grid;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar ul li {
+    
+    list-style: none;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: rgba(246, 246, 252, 0.781);
+}
